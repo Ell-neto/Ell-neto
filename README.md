@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manoel Neto 🧔🏻‍♂️</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ell-neto&label=Profile%20views&color=0e75b6&style=flat" alt="ell-neto" /> </p>
 
-- 🌱 I’m currently learning **Data Science, Data analysis, Machine Learning, Database and Backend with JavaScript + NodeJS**
+- 🌱 I’m currently learning **Python, Java, Data Science, Data analysis, Machine Learning and BackEnd with JavaScript/TypeScript**
 
-- 📫 How to reach me **manoelfsneto@live.com**
+- 📫 How to reach me **manoelfirminosn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
